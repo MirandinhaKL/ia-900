@@ -24,5 +24,4 @@ Tarefa de reconhecimento facial e transformação de imagens em dados no Azure M
 1. Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
 2. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
 
-
-Essa tarefa foi mais desafiadora para mim pois tive um problema relativo a "resource id" na requisição.
+Já tinha desistido de entregar a tarefa pois obtinha uma mensagem de erro "resource id" na requisição. Após uns 10 minutos, passou a funcionar corretamente as funcionalidades disponibilizadas no Vision Studio.
