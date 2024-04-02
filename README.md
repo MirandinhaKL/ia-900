@@ -17,3 +17,12 @@ No meu primeiro projeto prático, do curso "Microsoft Azure AI Fundamentals" rea
 - [Link 2](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 
 O maior desafio foi na etapa de "Testes" pois demorou para habilitar a aba que permitia a execução do código.
+
+#  Microsoft Azure AI Fundamentals - Tarefa 2
+Tarefa de reconhecimento facial e transformação de imagens em dados no Azure ML.
+
+1. Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
+2. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
+
+
+Essa tarefa foi mais desafiadora para mim pois tive um problema relativo a "resource id" na requisição.
