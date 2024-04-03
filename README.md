@@ -25,3 +25,11 @@ Tarefa de reconhecimento facial e transformação de imagens em dados no Azure M
 2. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
 
 Já tinha desistido de entregar a tarefa pois obtinha uma mensagem de erro "resource id" na requisição. Após uns 10 minutos, passou a funcionar corretamente as funcionalidades disponibilizadas no Vision Studio.
+
+#  Microsoft Azure AI Fundamentals - Tarefa 3
+Tarefa de análise de sentimentos com Language Studio no Azure IA.
+
+1. Crie uma pasta chamada 'inputs' e crie um documento de texto com algumas sentenças
+2. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças.
+
+Muita intuitiva e visual a ferramenta.
