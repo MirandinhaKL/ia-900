@@ -33,3 +33,13 @@ Tarefa de análise de sentimentos com Language Studio no Azure IA.
 2. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças.
 
 Muita intuitiva e visual a ferramenta.
+
+#  Microsoft Azure AI Fundamentals - Tarefa 4
+Tarefa de uso da AI Search para indexação e consulta de Dados.
+
+1. Crie um um arquivo readme.md descrevendo o passo a passo para se configurar uma pesquisa, assim como seus insights, possibilidades de ferramentas que se beneficiam com esse tipo de ferramenta e aprendizados adquiridos durante o processo.
+2. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
+
+As etapas descritas na [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) são fáceis de serem seguidas. A minha sugestão é deixar a Azure configurada em inglês para seguir o procedimento mais facilmente. 
+- Na pasta inputs/Atividade-04 tem-se os arquivos utilizados na análise da tarefa.
+- Já na pastas outputs/Atividade-04 tem-se os prints das principais etapas realizadas na atividade.
