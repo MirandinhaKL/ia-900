@@ -43,3 +43,12 @@ Tarefa de uso da AI Search para indexação e consulta de Dados.
 As etapas descritas na [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) são fáceis de serem seguidas. A minha sugestão é deixar a Azure configurada em inglês para seguir o procedimento mais facilmente. 
 - Na pasta inputs/Atividade-04 tem-se os arquivos utilizados na análise da tarefa.
 - Já na pastas outputs/Atividade-04 tem-se os prints das principais etapas realizadas na atividade.
+
+#  Microsoft Azure AI Fundamentals - Tarefa 5
+Explorando os Recursos de IA Generativa com Copilot e OpenAI.
+
+1. Crie uma pasta chamada 'inputs' e salve as imagens que você utilizou
+2. Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
+3. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
+
+Para a atividade utilizei o copilot do Bing para me auxiliar na criação de uma imagem. Interagi 10 vezes através do prompt com o intuito de criar uma imagem de um chalé alpino em formato de "A". A saída final não era o que eu tinha em mente. Entendi que devo ser mais claras nas minhas declarações. Mesmo assim, a ferramenta é fantástica, e por enquanto, ainda é gratuita. 🎯💡
